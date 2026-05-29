@@ -4,7 +4,7 @@ This repository contains the template to be used for the Final Project for the C
 
 ## Project Name
 
-i-cd-final-project
+ i-cd-final-project
 
 ## Usage
 
